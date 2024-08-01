@@ -7,6 +7,7 @@ public class MyClass {
 		System.out.println(accessSpecifiers.a);
 		System.out.println(accessSpecifiers.c);
 		System.out.println(accessSpecifiers.d);
+		System.out.println("Testing");
 	}
 
 }
